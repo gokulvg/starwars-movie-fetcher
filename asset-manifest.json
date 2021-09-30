@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starwar_movie_fetcher/static/css/main.e5e7ca06.chunk.css",
+    "main.js": "/starwar_movie_fetcher/static/js/main.fb6d9931.chunk.js",
+    "main.js.map": "/starwar_movie_fetcher/static/js/main.fb6d9931.chunk.js.map",
+    "runtime-main.js": "/starwar_movie_fetcher/static/js/runtime-main.6a2ab1b0.js",
+    "runtime-main.js.map": "/starwar_movie_fetcher/static/js/runtime-main.6a2ab1b0.js.map",
+    "static/js/2.9e3306a6.chunk.js": "/starwar_movie_fetcher/static/js/2.9e3306a6.chunk.js",
+    "static/js/2.9e3306a6.chunk.js.map": "/starwar_movie_fetcher/static/js/2.9e3306a6.chunk.js.map",
+    "index.html": "/starwar_movie_fetcher/index.html",
+    "static/css/main.e5e7ca06.chunk.css.map": "/starwar_movie_fetcher/static/css/main.e5e7ca06.chunk.css.map",
+    "static/js/2.9e3306a6.chunk.js.LICENSE.txt": "/starwar_movie_fetcher/static/js/2.9e3306a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a2ab1b0.js",
+    "static/js/2.9e3306a6.chunk.js",
+    "static/css/main.e5e7ca06.chunk.css",
+    "static/js/main.fb6d9931.chunk.js"
+  ]
+}
